@@ -1,0 +1,12 @@
+# EnrichmentFieldsEntityPerson
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**at_type** | **String** |  | 
+**instrument** | Option<[**models::EnrichmentFieldsEntityPersonInstrumentInstrument**](enrichment_fields_entity_person_instrument_instrument.md)> |  | [optional]
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
